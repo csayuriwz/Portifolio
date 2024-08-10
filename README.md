@@ -4,6 +4,6 @@ Este repositório contém meu portfólio pessoal, onde apresento meus projetos, 
 
 # LINK PARA O PORTIFÓLIO:
 
-(https://portifolio-70oy82ld9-cats-projects-782e23c9.vercel.app/)
+portifolio-three-pied.vercel.app
 
 
